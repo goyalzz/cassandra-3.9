@@ -1,3 +1,5 @@
+```docker run --restart always -p 9042:9042 --name cassandra -d goyalzz/cassandra:3.9```
+
 Ubuntu based container with Apache Cassandra for development purpose
 
 ## Run a Cassandra cluster
